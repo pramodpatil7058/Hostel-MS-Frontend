@@ -1,0 +1,13 @@
+tr {
+    width: 90%;
+    height: 30px;
+}
+
+
+tr td {
+    width: 10%;
+}
+
+tr th {
+    width: 10%;
+}
