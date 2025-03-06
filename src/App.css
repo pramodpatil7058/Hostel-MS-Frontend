@@ -1,0 +1,45 @@
+.hero {
+  background: url('https://www.navtark.com/wp-content/uploads/2023/05/Hostel-Management_02.webp') no-repeat center center;
+  background-size: cover;
+  color: black;
+  text-align: center;
+  padding: 20% 0 7% 0;
+  margin-top: 50px;
+}
+
+.feature-icon {
+  font-size: 3rem;
+}
+
+.cp-20 {
+  padding-top: 50px;
+}
+
+.toast-error {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  color: #721c24;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, opacity 0.3s;
+}
+
+.toast-error {
+  background-image: linear-gradient(to right, red, white);
+  color: #fff;
+  font-size: 20px;
+  width: 30dvw;
+  padding: 15px 10px;
+}
+
+.toast-success {
+  background-image: linear-gradient(to right, rgb(43, 165, 104), white);
+  color: #fff;
+  font-size: 20px;
+  width: 30dvw;
+  padding: 15px 10px;
+}
